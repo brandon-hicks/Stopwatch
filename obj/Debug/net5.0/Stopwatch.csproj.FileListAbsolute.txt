@@ -1,0 +1,16 @@
+/home/brandon/Projects/CSharpProjects/Stopwatch/bin/Debug/net5.0/Stopwatch
+/home/brandon/Projects/CSharpProjects/Stopwatch/bin/Debug/net5.0/Stopwatch.deps.json
+/home/brandon/Projects/CSharpProjects/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.json
+/home/brandon/Projects/CSharpProjects/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.dev.json
+/home/brandon/Projects/CSharpProjects/Stopwatch/bin/Debug/net5.0/Stopwatch.dll
+/home/brandon/Projects/CSharpProjects/Stopwatch/bin/Debug/net5.0/ref/Stopwatch.dll
+/home/brandon/Projects/CSharpProjects/Stopwatch/bin/Debug/net5.0/Stopwatch.pdb
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/Stopwatch.csprojAssemblyReference.cache
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfoInputs.cache
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfo.cs
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/Stopwatch.dll
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/ref/Stopwatch.dll
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/Stopwatch.pdb
+/home/brandon/Projects/CSharpProjects/Stopwatch/obj/Debug/net5.0/Stopwatch.genruntimeconfig.cache
